@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(228, 223, 249);
+    align-items: center;
+    text-align: center;
+    margin: 5px 450px
+    }
+    header{
+        padding: 5px;
+        border: 2px black;
+        border-color: black;
+        border-style: solid;
+        text-align: center;
+        font-family: cursive;
+        color: black;
+        background-color:rgb(228, 223, 249);
+        margin: auto;
+        box-shadow: 0 0 5px rgb(0, 0, 0.5);
+    }
+    div{
+        text-align: center;
+        background-color: rgb(79, 78, 78);
+        border: 5px;
+        padding: 5px;
+        color: white;
+        margin: auto;
+        font-family: cursive;
+        font-style: italic;
+    }
+    p{
+        font-family: cursive;
+        font-style: oblique;
+    }
+    section{
+        font-family: cursive;
+    }
+    hr{
+        border: 5px black;
+        border-style: solid;
+    }
